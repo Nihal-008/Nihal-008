@@ -2,7 +2,7 @@
 #### Currenly i am learning java full stack web development. i am well versed in front end techonlgies like html,css and javascript. i have done internship in web devlopment at lucid edge tech serv ,miraj.
 ------------
 ### Qualification 🎓
-#### B-Tech in echanical Engineering from Rajrambapu institute of technology,islampur
+#### B-Tech in Mechanical Engineering from Rajrambapu institute of technology,islampur
  ###### *CPI :8.17*
 
  ------
