@@ -8,7 +8,7 @@
  ------
 ### Technical skiils 🔬
 - front end technologies : HTML,CSS,Bootstrap,javascript
-- programming languages: C and C++
+- programming languages: C, C++ and Java
 - database : SQL
 -----------------
 ### Projects 🚀
